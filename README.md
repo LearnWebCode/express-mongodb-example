@@ -1,0 +1,1 @@
+This example assumes you will create a file named `.env` in the root of the project folder, and you have a variable in it exactly named CONNECTIONSTRING with your MongoDB connection string for a particular database. Inside your `.env` file the syntax is as follows `CONNECTIONSTRING=yourconnectionstringherenoquotesneeded`
